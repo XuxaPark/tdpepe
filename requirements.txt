@@ -1,6 +1,4 @@
 pandas
-time
 requests
 binance
 python-dotenv
-logging
