@@ -1,0 +1,45 @@
+2024-12-30 17:23:05 - Arquivo de log limpo.
+2024-12-30 17:23:06 - Restrições do par PEPEUSDT - MinQty: 1.0, StepSize: 1.0, MinNotional: 0
+2024-12-30 17:23:06 - Robô iniciado.
+2024-12-30 17:23:07 - Decisão tomada: BUY
+2024-12-30 17:23:07 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:23:08 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:23:12 - Valor da ordem calculado: 0.2283825, NOTIONAL mínimo: 0
+2024-12-30 17:23:12 - Quantidade ajustada para compra: 12345.0
+2024-12-30 17:23:12 - Erro ao executar trade: APIError(code=-1013): Filter failure: NOTIONAL
+2024-12-30 17:24:13 - Decisão tomada: BUY
+2024-12-30 17:24:13 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:24:14 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:24:18 - Valor da ordem calculado: 0.22837638000000002, NOTIONAL mínimo: 0
+2024-12-30 17:24:18 - Quantidade ajustada para compra: 12338.0
+2024-12-30 17:24:18 - Erro ao executar trade: APIError(code=-1013): Filter failure: NOTIONAL
+2024-12-30 17:25:18 - Decisão tomada: BUY
+2024-12-30 17:25:19 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:25:20 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:25:24 - Valor da ordem calculado: 0.22838225, NOTIONAL mínimo: 0
+2024-12-30 17:25:24 - Quantidade ajustada para compra: 12325.0
+2024-12-30 17:25:25 - Erro ao executar trade: APIError(code=-1013): Filter failure: NOTIONAL
+2024-12-30 17:26:25 - Decisão tomada: BUY
+2024-12-30 17:26:25 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:26:26 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:26:30 - Valor da ordem calculado: 0.22838225, NOTIONAL mínimo: 0
+2024-12-30 17:26:30 - Quantidade ajustada para compra: 12325.0
+2024-12-30 17:26:31 - Erro ao executar trade: APIError(code=-1013): Filter failure: NOTIONAL
+2024-12-30 17:27:31 - Decisão tomada: BUY
+2024-12-30 17:27:31 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:27:32 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:27:37 - Valor da ordem calculado: 0.22826496, NOTIONAL mínimo: 0
+2024-12-30 17:27:37 - Quantidade ajustada para compra: 12352.0
+2024-12-30 17:27:37 - Erro ao executar trade: APIError(code=-1013): Filter failure: NOTIONAL
+2024-12-30 17:28:38 - Decisão tomada: BUY
+2024-12-30 17:28:38 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:28:39 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:28:43 - Valor da ordem calculado: 0.22838155000000002, NOTIONAL mínimo: 0
+2024-12-30 17:28:43 - Quantidade ajustada para compra: 12365.0
+2024-12-30 17:28:43 - Erro ao executar trade: APIError(code=-1013): Filter failure: NOTIONAL
+2024-12-30 17:29:44 - Decisão tomada: BUY
+2024-12-30 17:29:44 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:29:45 - Saldo para USDT: Livre = 11.42970756, Bloqueado = 0.00000000
+2024-12-30 17:29:49 - Valor da ordem calculado: 0.22838712, NOTIONAL mínimo: 0
+2024-12-30 17:29:49 - Quantidade ajustada para compra: 12372.0
+2024-12-30 17:29:49 - Erro ao executar trade: APIError(code=-1013): Filter failure: NOTIONAL

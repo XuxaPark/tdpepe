@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trading Bot Logs</title>
+</head>
+<body>
+    <h1>Trading Bot Logs</h1>
+    <a href="/download_logs" style="margin-bottom: 20px; display: inline-block;">Download Logs</a>
+    <div>
+        <h2>Logs:</h2>
+        <pre>
+{% for log in logs %}
+{{ log }}
+{% endfor %}
+        </pre>
+    </div>
+</body>
+</html>
