@@ -1,2 +1,7 @@
-runtime: python
-pythonVersion: "3.10"
+services:
+  - type: web
+    name: trader-bot
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python trader_bot_flask.py"
+    pythonVersion: "3.10"
